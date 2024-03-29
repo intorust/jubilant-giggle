@@ -2,7 +2,6 @@
 
 - [Introduction](./introduction.md)
 - [When to use Rust?](./when_to_use_rust.md)
-- [How to improve this guide!](./contribution.md)
 
 # General Rust
 

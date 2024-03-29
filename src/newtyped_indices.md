@@ -1,0 +1,2 @@
+# Newtyped indices
+

@@ -5,7 +5,7 @@
 
 # General Rust
 
-- [When to use references (`&T`)](./when_to_use_references.md)
+- [When to use references (`&T`)?](./when_to_use_references.md)
     - [How many lifetime parameters should my struct have?](./how_many_lifetime_parameters.md)
 - [When borrowing does not work](./when_not_to_borrow.md)
     - [Vector and indices](./vector_and_indices.md)

@@ -1,4 +1,4 @@
-# Summary
+# Everything you ever wanted to know about Rust...
 
 - [Introduction](./introduction.md)
 - [When to use Rust?](./when_to_use_rust.md)
